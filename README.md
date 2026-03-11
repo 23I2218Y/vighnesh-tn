@@ -3,7 +3,7 @@
 <h3 align="center">Supply Chain & Logistics Analyst | SAP IBP · ERP · Tableau · Demand Forecasting</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/vighnesh-tn/]" target="_blank">
+  <a href="https://www.linkedin.com/in/vighnesh-thirukumaran-nalini" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vighneshtn23@gmail.com">
@@ -53,28 +53,28 @@
 
 ## 📂 Featured Projects
 
-### 🔹 [SAP IBP & APO — Supply Chain Planning Simulation](https://github.com/YOUR-USERNAME/sap-ibp-apo-supply-chain-planning)
+### 🔹 [SAP IBP & APO — Supply Chain Planning Simulation](https://github.com/vighnesh-tn/sap-ibp-apo-supply-chain-planning)
 > End-to-end supply chain planning for Global Bike Inc. using SAP IBP & APO in a live multi-plant sandbox environment.  
 > **Achieved 5% MAPE improvement** through statistical demand forecasting (moving average & exponential smoothing), MRP execution, and S&OP integration across 3 distribution centers.  
 > `SAP IBP` `SAP APO` `MRP` `S&OP` `Demand Forecasting` `Excel`
 
 ---
 
-### 🔹 [Inbound Logistics Network Optimization — Capstone](https://github.com/YOUR-USERNAME/inbound-logistics-optimization)
+### 🔹 [Inbound Logistics Network Optimization — Capstone](https://github.com/vighnesh-tn/inbound-logistics-optimization)
 > Real-world graduate capstone project analyzing a global apparel brand's inbound transportation network *(NDA — company withheld)*.  
 > Identified bottlenecks across U.S. Gulf Coast and West Coast ports, performed root cause analysis, and delivered port-specific recommendations using Tableau and Excel.  
 > `Tableau` `Excel` `Root Cause Analysis` `Pareto Analysis` `Transit Time Modeling`
 
 ---
 
-### 🔹 [Best Buy — Supply Chain & Competitive Strategy](https://github.com/YOUR-USERNAME/bestbuy-supply-chain-strategy)
+### 🔹 [Best Buy — Supply Chain & Competitive Strategy](https://github.com/vighnesh-tn/bestbuy-supply-chain-strategy)
 > Strategic case study benchmarking Best Buy against Amazon, Apple, Walmart, and Dell using the VRIO framework.  
 > Identified sustainable competitive advantages and proposed growth strategies in digital health and omnichannel retail.  
 > `VRIO Framework` `Competitive Analysis` `Omnichannel Strategy` `Supply Chain Strategy`
 
 ---
 
-### 🔹 [Bamboo Cutting Board — Product Development & PM](https://github.com/YOUR-USERNAME/bamboo-product-project-management)
+### 🔹 [Bamboo Cutting Board — Product Development & PM](https://github.com/vighnesh-tn/bamboo-product-project-management)
 > Managed full project lifecycle for a $100K prototype development — from charter to final delivery.  
 > Built a 6-phase Gantt chart in Microsoft Project, risk register, stakeholder matrix, and acceptance criteria documentation.  
 > `Microsoft Project` `Project Charter` `WBS` `Risk Management` `Stakeholder Analysis`
@@ -104,7 +104,7 @@ I'm actively looking for roles in **Supply Chain Analytics, Demand Planning, Log
 Feel free to reach out — I'd love to connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vighnesh-tn/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/vighnesh-thirukumaran-nalini">LinkedIn</a> •
   <a href="mailto:vighneshtn23@gmail.com">Email</a> •
   <a href="https://YOUR-NOTION-PORTFOLIO-LINK">Portfolio Website</a>
 </p>
