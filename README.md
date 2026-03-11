@@ -104,7 +104,7 @@ I'm actively looking for roles in **Supply Chain Analytics, Demand Planning, Log
 Feel free to reach out — I'd love to connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">LinkedIn</a> •
-  <a href="mailto:YOUR-EMAIL@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/vighnesh-tn/">LinkedIn</a> •
+  <a href="mailto:vighneshtn23@gmail.com">Email</a> •
   <a href="https://YOUR-NOTION-PORTFOLIO-LINK">Portfolio Website</a>
 </p>
