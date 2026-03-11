@@ -3,7 +3,7 @@
 <h3 align="center">Supply Chain & Logistics Analyst | SAP IBP · ERP · Tableau · Demand Forecasting</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/vighnesh-tn" target="_blank">
+  <a href="[www.linkedin.com/in/vighnesh-tn](https://www.linkedin.com/in/vighnesh-tn/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR-EMAIL@gmail.com">
