@@ -3,7 +3,7 @@
 <h3 align="center">Supply Chain & Logistics Analyst | SAP IBP · ERP · Tableau · Demand Forecasting</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vighnesh-thirukumaran-nalini" target="_blank">
+  <a href="https://www.linkedin.com/in/vighnesh-tn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vighneshtn23@gmail.com">
@@ -104,7 +104,7 @@ I'm actively looking for roles in **Supply Chain Analytics, Demand Planning, Log
 Feel free to reach out — I'd love to connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vighnesh-thirukumaran-nalini">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/vighnesh-tn">LinkedIn</a> •
   <a href="mailto:vighneshtn23@gmail.com">Email</a> •
   <a href="https://YOUR-NOTION-PORTFOLIO-LINK">Portfolio Website</a>
 </p>
