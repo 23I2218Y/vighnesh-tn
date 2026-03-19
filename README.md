@@ -9,7 +9,7 @@
   <a href="mailto:vighneshtn23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR-NOTION-PORTFOLIO-LINK" target="_blank">
+  <a href="https://vighneshtnportfolio.notion.site/Vighnesh-Thirukumaran-Nalini-324b6098e8538038b4d8df555653553a" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </p>
@@ -106,5 +106,5 @@ Feel free to reach out — I'd love to connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/vighnesh-tn">LinkedIn</a> •
   <a href="mailto:vighneshtn23@gmail.com">Email</a> •
-  <a href="https://YOUR-NOTION-PORTFOLIO-LINK">Portfolio Website</a>
+  <a href="https://vighneshtnportfolio.notion.site/Vighnesh-Thirukumaran-Nalini-324b6098e8538038b4d8df555653553a">Portfolio Website</a>
 </p>
